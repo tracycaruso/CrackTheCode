@@ -16,7 +16,9 @@ ruby ./lib/decrypt.rb encrypted.txt decrypted.txt 15823 030315
 
 (The last two entered elements are the key and the date which you will need to specify in order to decrypt the message.)
 
-###Output: Created 'decrypted.txt' with the key 82648 and date 030415
+###Output:
+
+Created 'decrypted.txt' with the key 82648 and date 030415
 
 ##Cracking
 
